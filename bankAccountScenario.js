@@ -1,10 +1,18 @@
 function bankAccount{
+	//polymorphism
 	constructor(name, balace){
 		
 		this.balance = balance
 		this.name = name
 		thi.info = function(){
 			return this.name + "Account balance is " + this.balance
+		}
+		
+		this.withdraw() = function(){	
+		}
+		
+		this.deposit() = function(){
+				
 		}
 	}
 	//inheritance
